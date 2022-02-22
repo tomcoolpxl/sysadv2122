@@ -1,2 +1,2 @@
-# sysadv2122
+# System Advanced II - Linux
 Course files voor System Advanced II - Linux
